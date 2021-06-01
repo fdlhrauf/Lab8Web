@@ -20,6 +20,10 @@ Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
 
 ![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/filelab8.JPG)
 
+Membuat file foto
+
+![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/fotohp.JPG)
+
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:http://localhost/lab8_php_database/
 
 ![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/localhost.JPG)
