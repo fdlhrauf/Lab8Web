@@ -49,6 +49,7 @@ Buat file baru dengan nama tambah.php
 ![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/tambah2.JPG)
 ![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/tambah3.JPG)
 ![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/tambahfile.JPG)
+![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/tambahfile2.JPG)
 
 # Mengubah Data (Update)
 Buat file baru dengan nama ubah.php
@@ -57,7 +58,8 @@ Buat file baru dengan nama ubah.php
 ![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/ubah2.JPG)
 ![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/ubah3.JPG)
 ![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/ubah4.JPG)
-![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/tambahfile2.JPG)
+![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/ubahstok.JPG)
+![img](https://github.com/fdlhrauf/Lab8Web/blob/main/Image/hasilubah.JPG)
 
 
 # Menghapus Data (Delete)
